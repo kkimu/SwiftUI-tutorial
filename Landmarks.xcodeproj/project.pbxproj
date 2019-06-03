@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		205654DA22A5E6E8001BA486 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205654D922A5E6E8001BA486 /* CircleImage.swift */; };
+		205654DC22A5E7DE001BA486 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205654DB22A5E7DE001BA486 /* MapView.swift */; };
 		20CAB1E722A5E2610018BEDE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CAB1E622A5E2610018BEDE /* AppDelegate.swift */; };
 		20CAB1E922A5E2610018BEDE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CAB1E822A5E2610018BEDE /* SceneDelegate.swift */; };
 		20CAB1EB22A5E2610018BEDE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CAB1EA22A5E2610018BEDE /* ContentView.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		205654D922A5E6E8001BA486 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		205654DB22A5E7DE001BA486 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		20CAB1E322A5E2610018BEDE /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20CAB1E622A5E2610018BEDE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20CAB1E822A5E2610018BEDE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				20CAB1EA22A5E2610018BEDE /* ContentView.swift */,
 				20CAB1EC22A5E2630018BEDE /* Assets.xcassets */,
 				205654D922A5E6E8001BA486 /* CircleImage.swift */,
+				205654DB22A5E7DE001BA486 /* MapView.swift */,
 				20CAB1F122A5E2630018BEDE /* LaunchScreen.storyboard */,
 				20CAB1F422A5E2630018BEDE /* Info.plist */,
 				20CAB1EE22A5E2630018BEDE /* Preview Content */,
@@ -272,6 +275,7 @@
 			files = (
 				20CAB1E722A5E2610018BEDE /* AppDelegate.swift in Sources */,
 				205654DA22A5E6E8001BA486 /* CircleImage.swift in Sources */,
+				205654DC22A5E7DE001BA486 /* MapView.swift in Sources */,
 				20CAB1E922A5E2610018BEDE /* SceneDelegate.swift in Sources */,
 				20CAB1EB22A5E2610018BEDE /* ContentView.swift in Sources */,
 			);
